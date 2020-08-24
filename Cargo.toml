@@ -1,0 +1,14 @@
+[package]
+name = "input_opr"
+version = "0.1.0"
+authors = ["samayons <samuelayomide06@gmail.com>"]
+edition = "2018"
+description = "Provides a function for getting users input."
+readme = "README.md"
+repository = "https://github.com/Samayons/input-operations.git"
+license = "MIT"
+keywords = ["input", "user input"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
